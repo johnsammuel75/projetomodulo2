@@ -58,7 +58,11 @@ main{
     height: 65%;
     
 }
-p {font-family:'open Sans';}
+p {
+    font-family: monospace;
+    text-indent: 20px;
+    font-size: 1.5em;
+}
 footer{
     background-color: #787d9f;
     padding:5px;
@@ -74,10 +78,9 @@ footer{
 .kk{
    text-align: center;
 }
-h3{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 1.5em;
-    text-align: center;
+h2{
+    text-align:center;
+    margin: 5px;
 }
 
 
